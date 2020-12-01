@@ -1,0 +1,11 @@
+.detailPanel {
+  flex: 1;
+  background: #fafafa;
+}
+.detailPanel :global .ant-card {
+  background: #ffffff;
+}
+.detailPanel :global .ant-card .ant-list-item:hover {
+  background-color: #0085FF;
+  font-family: Roboto;
+}
